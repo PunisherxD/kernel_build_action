@@ -17,7 +17,7 @@ jobs:
       with:
           kernel-url: https://github.com/LineageOS/android_kernel_motorola_sm7325
           kernel-branch: lineage-21
-          config: cas_defconfig
+          config: gki_defconfig
           arch: arm64
           aosp-gcc: true
           aosp-clang: true
